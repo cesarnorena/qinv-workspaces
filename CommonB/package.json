@@ -1,0 +1,13 @@
+{
+  "name": "common-b",
+  "version": "1.0.0",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "yarn build"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}

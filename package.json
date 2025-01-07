@@ -1,0 +1,9 @@
+{
+  "name": "qinv-workspaces",
+  "packageManager": "yarn@3.6.4",
+  "private": true,
+  "workspaces": [
+    "CommonA",
+    "CommonB"
+  ]
+}
